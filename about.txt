@@ -1,0 +1,3 @@
+This is a complete list of commands used in Kali Linux.
+
+You can use these commands as a beginner to start your journey as an Ehical Hacker.
