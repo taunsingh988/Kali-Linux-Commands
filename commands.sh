@@ -335,3 +335,436 @@ gzip
 
 Compress or decompress named files
 
+hash
+
+Remember the full pathname of a name argument
+
+head
+
+Output the first part of files
+
+help
+
+Display help for a built-in command
+
+history
+
+Command History
+
+hostname
+
+Print or set system name
+
+iconv
+
+Convert the character set of a file
+
+id
+
+Print user and group id’s
+
+if
+
+Conditionally perform a command
+
+ifconfig
+
+Configure a network interface
+
+ifdown
+
+Stop a network interface
+
+ifup
+
+Start a network interface up
+
+import
+
+Capture an X server screen and save the image to file
+
+install
+
+Copy files and set attributes
+
+jobs
+
+List active jobs
+
+join
+
+Join lines on a common field
+
+kill
+
+Stop a process from running
+
+killall
+
+Kill processes by name
+
+less
+
+Display output one screen at a time
+
+let
+
+Perform arithmetic on shell variables
+
+
+ln
+
+Create a symbolic link to a file
+
+local
+
+Create variables
+
+locate
+
+Find files
+
+logname
+
+Print current login name
+
+logout
+
+Exit a login shell
+
+look
+
+Display lines beginning with a given string
+
+lpc
+
+Line printer control program
+
+lpr
+
+Off line print
+
+lprint
+
+Print a file
+
+lprintd
+
+Abort a print job
+
+lprintq
+
+List the print queue
+
+lprm
+
+Remove jobs from the print queue
+
+ls
+
+List information about files
+
+lsof
+
+List open files
+
+make
+
+Recompile a group of programs
+
+man
+
+Help manual
+
+mkdir
+
+Create new folders
+
+mkfifo
+
+Make FIFOs (named pipes)
+
+mkisofs
+
+Create an hybrid ISO9660/JOLIET/HFS filesystem
+
+mknod
+
+Make block or character special files
+
+more
+
+Display output one screen at a time
+
+mount
+
+Mount a file system
+
+mtools
+
+Manipulate MS-DOS files
+
+mtr
+
+Network diagnostics (traceroute/ping)
+
+mv
+
+Move or rename files or directories
+
+mmv
+
+Mass Move and rename files
+
+netstat
+
+Networking information
+
+nice
+
+Set the priority of a command or job
+
+nl
+
+Number lines and write files
+
+nohup
+
+Run a command immune to hangups
+
+notify-send
+
+Send desktop notifications
+
+nslookup
+
+Query Internet name servers interactively
+
+open
+
+Open a file in its default application
+
+op
+
+Operator access
+
+passwd
+
+Modify a user password
+
+
+paste
+
+Merge lines of files
+
+pathchk
+
+Check file name portability
+
+ping
+
+Test a network connection
+
+pkill
+
+Stop processes from running
+
+popd
+
+Restore the previous value of the current directory
+
+pr
+
+Prepare files for printing
+
+printcap
+
+Printer capability database
+
+printenv
+
+Print environment variables
+
+printf
+
+Format and print data
+
+ps
+
+Process status
+
+pushd
+
+Save and then change the current directory
+
+pwd
+
+Print Working Directory
+
+Q
+
+quota
+
+Display disk usage and limits
+
+quotacheck
+
+Scan a file system for disk usage
+
+quotactl
+
+Set disk quotas
+
+ram
+
+ram disk device
+
+rcp
+
+Copy files between two machines
+
+read
+
+Read a line from standard input
+
+readarray
+
+Read from stdin into an array variable
+
+readonly
+
+Mark variables/functions as readonly
+
+reboot
+
+Reboot the system
+
+rename
+
+Rename files
+
+renice
+
+Alter priority of running processes
+
+remsync
+
+Synchronize remote files via email
+
+return
+
+Exit a shell function
+
+rev
+
+Reverse lines of a file
+
+rm
+
+Remove files
+
+rmdir
+
+Remove folders
+
+rsync
+
+Remote file copy (Synchronize file trees)
+
+screen
+
+Multiplex terminal, run remote shells via ssh
+
+scp
+
+Secure copy (remote file copy)
+
+sdiff
+
+Merge two files interactively
+
+sed
+
+Stream Editor
+
+select
+
+Accept keyboard input
+
+seq
+
+Print numeric sequences
+
+set
+
+Manipulate shell variables and functions
+
+
+sftp
+
+Secure File Transfer Program
+
+shift
+
+Shift positional parameters
+
+shopt
+
+Shell Options
+
+shutdown
+
+Shutdown or restart linux
+
+sleep
+
+Delay for a specified time
+
+slocate
+
+Find files
+
+sort
+
+Sort text files
+
+source
+
+Run commands from a file
+
+split
+
+Split a file into fixed-size pieces
+
+ssh
+
+Secure Shell client (remote login program)
+
+strace
+
+Trace system calls and signals
+
+su
+
+Substitute user identity
+
+sudo
+
+Execute a command as another user
+
+sum
+
+Print a checksum for a file
+
+suspend
+
+Suspend execution of this shell
+
+symlink
+
+Make a new name for a file
+
+sync
+
+Synchronize data on disk with memory
+
